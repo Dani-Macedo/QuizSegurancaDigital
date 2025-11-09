@@ -1,83 +1,73 @@
 # QuizSegurancaDigital
-Quiz interativo sobre segurança digital em Java
 
-🔐 Projeto de extensão: Quiz Interativo sobre Segurança Digital  
-Aplicativo em Java que apresenta um quiz interativo sobre segurança digital, abordando temas como privacidade online, fake news e cyberbullying.
+🔐 **Quiz Interativo sobre Segurança Digital**  
+Projeto de Extensão Universitária - Quiz Interativo sobre Segurança Digital
+
+Este é um aplicativo em Java que apresenta um quiz educativo sobre segurança digital. O objetivo é promover a conscientização sobre o uso responsável da internet, abordando temas como privacidade online, fake news, cyberbullying e segurança de dados.
 
 ## 🎯 Objetivo
-Promover a conscientização sobre o uso responsável da internet por meio de um quiz educativo.
+
+- Estimular o pensamento crítico sobre o uso da internet
+- Ensinar boas práticas de segurança digital de forma lúdica
+- Apoiar ações de extensão universitária com impacto social
 
 ## 🚀 Como executar
 
-1. Clone o repositório:
-https://github.com/dani-Macedo/QuizSegurancaDigital.git
+1. **Clone o repositório:**
 
-2. Abra o projeto no Eclipse ou em qualquer IDE Java
+   git clone https://github.com/dani-macedo/QuizSegurancaDigital.git
+2.	Abra o projeto em uma IDE Java (como Eclipse ou IntelliJ)
+3.	Navegue até a classe:
+4.	src/quizseguranca/QuizSegurancaDigital.java
+5.	Execute a aplicação
 
-3. Execute a classe `QuizSegurancaDigital.java`
-
-## 📚 Temas abordados
-- Privacidade digital
-- Fake news
-- Cyberbullying
-- Segurança de dados
-- Mensagens suspeitas
+📚 Temas abordados
+•	Privacidade digital
+•	Fake news
+•	Cyberbullying
+•	Segurança de dados pessoais
+•	Mensagens suspeitas e golpes online
 
 🤝 Como contribuir com este projeto
-
-Quer ajudar a tornar o QuizSegurancaDigital ainda melhor? Veja como você pode contribuir:
+Quer ajudar a tornar o QuizSegurancaDigital ainda melhor? Veja como contribuir:
 
 🧠 Sugestões de conteúdo
-
-Envie novas perguntas sobre segurança digital, privacidade, fake news ou cyberbullying.
-
-Proponha melhorias nas explicações ou nos feedbacks do quiz.
+•	Envie novas perguntas sobre segurança digital
+•	Proponha melhorias nas explicações ou feedbacks do quis
 
 💻 Melhorias no código
-
-Otimize a estrutura do código Java.
-
-Adicione uma interface gráfica (Swing ou JavaFX).
-
-Crie uma versão web ou mobile do quiz.
+•	Otimize a estrutura do código Java
+•	Adicione interface gráfica (Swing ou JavaFX)
+•	Crie uma versão web ou mobile do quis
 
 🌍 Traduções e acessibilidade
-
-Traduza o quiz para outros idiomas.
-
-Adicione recursos de acessibilidade para pessoas com deficiência.
+•	Traduza o quiz para outros idiomas
+•	Adicione recursos de acessibilidade
 
 📦 Como enviar sua contribuição
-
-Faça um fork deste repositório.
-
-Crie uma nova branch:
-
-git checkout -b melhoria-nome
-
-
-Faça suas alterações.
-
-Faça o commit das mudanças:
-
-git commit -m "Adiciona melhoria X"
-
-
-Envie para o seu fork:
-
-git push origin melhoria-nome
-
-
-Abra um Pull Request neste repositório.
+1.	Fork este repositório
+2.	Crie uma nova branch: 
+3.	git checkout -b melhoria-nome
+4.	Faça suas alterações
+5.	Commit suas mudanças: 
+6.	git commit -m "Adiciona melhoria X"
+7.	Envie para seu fork: 
+8.	git push origin melhoria-nome
+9.	Abra um Pull Request aqui no GitHub
 
 📬 Dúvidas ou ideias?
-
 Abra uma issue neste repositório ou entre em contato comigo pelo LinkedIn [www.linkedin.com/in/daniele-c-macedo-572314350].
 
-Licença
+📄 Licença
 Este projeto está licenciado sob a Licença MIT.
 Você pode usar, modificar e distribuir livremente, desde que mantenha os créditos.
 
-## 👩‍💻 Desenvolvido por
-Daniele Macedo — Projeto de Extensão Universitária  
-#SegurançaDigital #JavaQuiz #ExtensãoUniversitária   
+👩‍💻 Desenvolvido por
+Daniele — Projeto de Extensão Universitária
+#SegurançaDigital #JavaQuiz #ExtensãoUniversitária
+
+
+
+
+
+
