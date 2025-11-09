@@ -56,13 +56,16 @@ Veja como contribuir:
 2.	Crie uma nova branch:
    
    git checkout -b melhoria-nome
+   
 3.	Faça suas alterações
 4.	Commit suas mudanças: 
 
 	git commit -m "Adiciona melhoria X"
+
 5.	Envie para seu fork:
    
 	git push origin melhoria-nome
+
 6.	Abra um Pull Request aqui no GitHub
 
 ## 📬 Dúvidas ou ideias?
