@@ -30,7 +30,9 @@ Este é um aplicativo em Java que apresenta um quiz educativo sobre segurança d
 
 ## 🤝 Como contribuir com este projeto
 
-Quer ajudar a tornar o QuizSegurancaDigital ainda melhor? Veja como contribuir:
+Quer ajudar a tornar o QuizSegurancaDigital ainda melhor? 
+
+Veja como contribuir:
 
 ## 🧠 Sugestões de conteúdo
 
@@ -72,6 +74,7 @@ Você pode usar, modificar e distribuir livremente, desde que mantenha os crédi
 ## 👩‍💻 Desenvolvido por
 
 Daniele Macedo — Projeto de Extensão Universitária
+
 #SegurançaDigital #JavaQuiz #ExtensãoUniversitária
 
 
