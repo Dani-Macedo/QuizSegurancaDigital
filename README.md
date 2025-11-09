@@ -14,8 +14,7 @@ Este é um aplicativo em Java que apresenta um quiz educativo sobre segurança d
 ## 🚀 Como executar
 
 1. **Clone o repositório:**
-
-   git clone https://github.com/dani-macedo/QuizSegurancaDigital.git
+   git clone https://github.com/Dani-Macedo/QuizSegurancaDigital.git
 2.	Abra o projeto em uma IDE Java (como Eclipse ou IntelliJ)
 3.	Navegue até a classe:
 4.	src/quizseguranca/QuizSegurancaDigital.java
